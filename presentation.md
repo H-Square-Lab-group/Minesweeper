@@ -16,6 +16,7 @@ This Minesweeper game features an interactive gameplay. It includes features suc
 - Take user input to reveal tiles
 - Grid-based mine generation and flood fill logic
 - Game win/loss detection
+- Added a function to show where the mines were situated after game is lost
 
 The code is modular, beginner-friendly, and a great entry point for exploring GUI programming in C++.
 
