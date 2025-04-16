@@ -1,6 +1,6 @@
 # 🎮 Minesweeper (C++ with SFML)
 
-An open-source clone of the classic **Minesweeper** game, built in **C++** using the **SFML graphics library**. This project was forked and investigated as part of an academic assignment on open-source contributions and software analysis.
+An open-source clone of the classic **Minesweeper** game, built in **C++**. This project was forked and investigated as part of an academic assignment on open-source contributions and software analysis.
 
 ---
 
@@ -15,7 +15,6 @@ Forked from: [https://github.com/jvanwinden/Minesweeper](https://github.com/jvan
 This Minesweeper game features a graphical interface with interactive gameplay. It includes features such as:
 - Left/right click to reveal or flag tiles
 - Grid-based mine generation and flood fill logic
-- Texture-based rendering using SFML
 - Game win/loss detection
 
 The code is modular, beginner-friendly, and a great entry point for exploring GUI programming in C++.
@@ -62,10 +61,10 @@ The code is modular, beginner-friendly, and a great entry point for exploring GU
 ---
 
 ## 🛠️ Contribution Made
-
-(Replace this with your actual contribution — e.g.,)  
+  
 - Fixed a mine-counting bug in `Board::addToMinecount()`  
 - Added input validation for board dimensions in `main.cpp`
+- Fixed the header files to remove cyclic dependencies.
 
 ---
 
