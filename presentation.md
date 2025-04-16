@@ -69,12 +69,6 @@ The code is modular, beginner-friendly, and a great entry point for exploring GU
 
 ---
 
-## 📸 Visual Diagram
-
-![Game Flow Diagram](A_flowchart_diagram_in_digital_vector_graphic_form.png)
-
----
-
 ## ✍️ Authors
 
 - Harshil  
