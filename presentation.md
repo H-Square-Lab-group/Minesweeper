@@ -1,4 +1,4 @@
-# 🎮 Minesweeper (C++ with SFML)
+# 🎮 Minesweeper (C++)
 
 An open-source clone of the classic **Minesweeper** game, built in **C++**. This project was forked and investigated as part of an academic assignment on open-source contributions and software analysis.
 
