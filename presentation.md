@@ -13,7 +13,7 @@ Forked from: [https://github.com/jvanwinden/Minesweeper](https://github.com/jvan
 ## 🧠 Project Overview
 
 This Minesweeper game features an interactive gameplay. It includes features such as:
-- Left/right click to reveal or flag tiles
+- Take user input to reveal tiles
 - Grid-based mine generation and flood fill logic
 - Game win/loss detection
 
